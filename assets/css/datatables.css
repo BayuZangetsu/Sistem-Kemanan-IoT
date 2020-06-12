@@ -1,0 +1,10 @@
+/* div.dataTables_wrapper  */
+.dataTables_filter{
+	width:100%;
+	float:none;
+	text-align: right !important;
+}
+div.dataTables_wrapper{
+	width: 100%;
+	float: none;
+}
